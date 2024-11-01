@@ -1,0 +1,9 @@
+./app/docs/*
+./app/docs_embedding/*
+./app/__pycache__/
+./app/cache/
+__pycache__/
+./openvino_env/
+.git/
+.gitignore
+.ipynb_checkpoints/
